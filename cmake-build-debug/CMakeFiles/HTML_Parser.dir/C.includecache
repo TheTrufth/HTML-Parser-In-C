@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/student/OneDrive - University College London/C/HTML Parser/html.c
+stdio.h
+-
+string.h
+-
+stack.c
+/Users/student/OneDrive - University College London/C/HTML Parser/stack.c
+
+/Users/student/OneDrive - University College London/C/HTML Parser/stack.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
